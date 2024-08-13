@@ -1,7 +1,7 @@
 package academy.learnprograming.springbootwebsocketchatmessenger.controller;
 
 
-import academy.learnprograming.springbootwebsocketchatexample.model.ChatMessages;
+import academy.learnprograming.springbootwebsocketchatmessenger.model.ChatMessages;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
 import org.springframework.messaging.simp.SimpMessageSendingOperations;
