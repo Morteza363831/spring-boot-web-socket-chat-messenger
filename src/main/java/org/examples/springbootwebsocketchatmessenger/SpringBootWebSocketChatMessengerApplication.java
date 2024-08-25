@@ -1,4 +1,4 @@
-package academy.learnprograming.springbootwebsocketchatmessenger;
+package org.examples.springbootwebsocketchatmessenger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
