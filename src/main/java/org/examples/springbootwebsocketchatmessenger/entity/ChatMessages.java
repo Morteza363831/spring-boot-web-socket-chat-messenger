@@ -1,4 +1,4 @@
-package academy.learnprograming.springbootwebsocketchatmessenger.model;
+package org.examples.springbootwebsocketchatmessenger.entity;
 
 import lombok.Data;
 
